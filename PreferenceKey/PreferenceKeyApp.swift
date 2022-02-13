@@ -3,7 +3,7 @@
 //  PreferenceKey
 //
 //  Created by Matthew Cox on 2/11/22.
-//
+//  Copyright © 2022 Matthew Cox.
 
 import SwiftUI
 

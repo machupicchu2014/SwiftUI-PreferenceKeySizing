@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		721779B827B76A640048B21A /* PreferenceKeyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721779B727B76A640048B21A /* PreferenceKeyApp.swift */; };
-		721779BA27B76A640048B21A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721779B927B76A640048B21A /* ContentView.swift */; };
+		721779BA27B76A640048B21A /* MultiColumnView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721779B927B76A640048B21A /* MultiColumnView.swift */; };
 		721779BC27B76A650048B21A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 721779BB27B76A650048B21A /* Assets.xcassets */; };
 		721779BF27B76A650048B21A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 721779BE27B76A650048B21A /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		721779B427B76A640048B21A /* PreferenceKey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PreferenceKey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		721779B727B76A640048B21A /* PreferenceKeyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferenceKeyApp.swift; sourceTree = "<group>"; };
-		721779B927B76A640048B21A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		721779B927B76A640048B21A /* MultiColumnView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiColumnView.swift; sourceTree = "<group>"; };
 		721779BB27B76A650048B21A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		721779BE27B76A650048B21A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				721779B727B76A640048B21A /* PreferenceKeyApp.swift */,
-				721779B927B76A640048B21A /* ContentView.swift */,
+				721779B927B76A640048B21A /* MultiColumnView.swift */,
 				721779BB27B76A650048B21A /* Assets.xcassets */,
 				721779BD27B76A650048B21A /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				721779BA27B76A640048B21A /* ContentView.swift in Sources */,
+				721779BA27B76A640048B21A /* MultiColumnView.swift in Sources */,
 				721779B827B76A640048B21A /* PreferenceKeyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
